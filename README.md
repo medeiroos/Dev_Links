@@ -10,7 +10,7 @@
 <br>
 <br><br>
 <p align="center">
-  ILUSTRAÇÃO DARK-LIGHT
+  ILUSTRAÇÃO LIGHT-MODE
   <br>
   <img width="" height="" src="https://github.com/medeiroos/projetorocketseat/assets/104704902/aa313adf-9b04-4c74-b4bf-fedb116e9101">
 </p>
